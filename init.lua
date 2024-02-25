@@ -1,9 +1,5 @@
 --[[
 
-=====================================================================
-==================== READ THIS BEFORE CONTINUING ====================
-=====================================================================
-
 Kickstart.nvim is *not* a distribution.
 
 Kickstart.nvim is a template for your own configuration.
